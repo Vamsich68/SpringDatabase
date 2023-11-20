@@ -1,0 +1,1 @@
+create table course(id bigint not null, coursename varchar(20) not null,platform varchar(30) not null,primary key(id));
